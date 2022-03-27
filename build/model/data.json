@@ -1,0 +1,568 @@
+[
+    {
+        "data": {
+            "id": "Dissertation",
+            "label": "Website for Dissertation"
+        }
+    },
+    {
+        "data": {
+            "id": "node.js",
+            "url": "https://www.google.com/search?q=node.js",
+            "label": "Node.js"
+        }
+    },
+    {
+        "data": {
+            "id": "javascript",
+            "url": "https://www.google.com/search?q=javascript",
+            "label": "Javascript"
+        }
+    },
+    {
+        "data": {
+            "id": "css",
+            "url": "https://www.google.com/search?q=css",
+            "label": "CSS"
+        }
+    },
+    {
+        "data": {
+            "id": "hosting",
+            "url": "https://www.google.com/search?q=webhosting",
+            "label": "WebHosting"
+        }
+    },
+    {
+        "data": {
+            "id": "database",
+            "url": "https://www.google.com/search?q=database",
+            "label": "DataBase"
+        }
+    },
+    {
+        "data": {
+            "id": "git",
+            "url": "https://www.google.com/search?q=git",
+            "label": "git"
+        }
+    },
+    {
+        "data": {
+            "id": "Dissertation->node.js",
+            "source": "node.js",
+            "target": "Dissertation"
+        }
+    },
+    {
+        "data": {
+            "id": "Dissertation->javascript",
+            "source": "javascript",
+            "target": "Dissertation"
+        }
+    },
+    {
+        "data": {
+            "id": "Dissertation->css",
+            "source": "css",
+            "target": "Dissertation"
+        }
+    },
+    {
+        "data": {
+            "id": "Dissertation->hosting",
+            "source": "hosting",
+            "target": "Dissertation"
+        }
+    },
+    {
+        "data": {
+            "id": "Dissertation->database",
+            "source": "database",
+            "target": "Dissertation"
+        }
+    },
+    {
+        "data": {
+            "id": "Dissertation->git",
+            "source": "git",
+            "target": "Dissertation"
+        }
+    },
+    {
+        "data": {
+            "id": "npmInTheConsole",
+            "url": "https://www.google.com/search?q=npm",
+            "label": "NPM in the console"
+        }
+    },
+    {
+        "data": {
+            "id": "npmPackage",
+            "url": "https://www.google.com/search?q=npmPackage",
+            "label": "NPM Package"
+        }
+    },
+    {
+        "data": {
+            "id": "node.js->npmInTheConsole",
+            "source": "npmInTheConsole",
+            "target": "node.js"
+        }
+    },
+    {
+        "data": {
+            "id": "node.js->npmPackage",
+            "source": "npmPackage",
+            "target": "node.js"
+        }
+    },
+    {
+        "data": {
+            "id": "webpack",
+            "url": "https://www.google.com/search?q=webpack",
+            "label": "Webpack"
+        }
+    },
+    {
+        "data": {
+            "id": "jsImmutability",
+            "url": "https://www.google.com/search?q=jsImmutability",
+            "label": "JS Immutability"
+        }
+    },
+    {
+        "data": {
+            "id": "react",
+            "url": "https://www.google.com/search?q=react",
+            "label": "React"
+        }
+    },
+    {
+        "data": {
+            "id": "javascript->webpack",
+            "source": "webpack",
+            "target": "javascript"
+        }
+    },
+    {
+        "data": {
+            "id": "javascript->jsImmutability",
+            "source": "jsImmutability",
+            "target": "javascript"
+        }
+    },
+    {
+        "data": {
+            "id": "javascript->react",
+            "source": "react",
+            "target": "javascript"
+        }
+    },
+    {
+        "data": {
+            "id": "reactClassVsFunctionalStyle",
+            "url": "https://www.google.com/search?q=reactClassVsFunctionalStyle",
+            "label": "React Class vs Functional Style"
+        }
+    },
+    {
+        "data": {
+            "id": "reactRouter",
+            "url": "https://www.google.com/search?q=reactRouter",
+            "label": "React Router"
+        }
+    },
+    {
+        "data": {
+            "id": "reactHooks",
+            "url": "https://www.google.com/search?q=reactHooks",
+            "label": "React Hooks"
+        }
+    },
+    {
+        "data": {
+            "id": "reactRedux",
+            "url": "https://www.google.com/search?q=reactRedux",
+            "label": "React Redux"
+        }
+    },
+    {
+        "data": {
+            "id": "reactAjax",
+            "url": "https://www.google.com/search?q=reactAjax",
+            "label": "React Ajax"
+        }
+    },
+    {
+        "data": {
+            "id": "next.js",
+            "url": "https://www.google.com/search?q=next.js",
+            "label": "Next.js"
+        }
+    },
+    {
+        "data": {
+            "id": "react->reactClassVsFunctionalStyle",
+            "source": "reactClassVsFunctionalStyle",
+            "target": "react"
+        }
+    },
+    {
+        "data": {
+            "id": "react->reactRouter",
+            "source": "reactRouter",
+            "target": "react"
+        }
+    },
+    {
+        "data": {
+            "id": "react->reactHooks",
+            "source": "reactHooks",
+            "target": "react"
+        }
+    },
+    {
+        "data": {
+            "id": "react->reactRedux",
+            "source": "reactRedux",
+            "target": "react"
+        }
+    },
+    {
+        "data": {
+            "id": "react->reactAjax",
+            "source": "reactAjax",
+            "target": "react"
+        }
+    },
+    {
+        "data": {
+            "id": "react->next.js",
+            "source": "next.js",
+            "target": "react"
+        }
+    },
+    {
+        "data": {
+            "id": "createReactAppProxy",
+            "url": "https://www.google.com/search?q=createReactAppProxy",
+            "label": "Create React App Proxy"
+        }
+    },
+    {
+        "data": {
+            "id": "reactAjax->createReactAppProxy",
+            "source": "createReactAppProxy",
+            "target": "reactAjax"
+        }
+    },
+    {
+        "data": {
+            "id": "npm",
+            "url": "https://www.google.com/search?q=npm",
+            "label": "NPM"
+        }
+    },
+    {
+        "data": {
+            "id": "webpack->npm",
+            "source": "npm",
+            "target": "webpack"
+        }
+    },
+    {
+        "data": {
+            "id": "posixCli",
+            "url": "https://www.google.com/search?q=posixCli",
+            "label": "Posix CLI"
+        }
+    },
+    {
+        "data": {
+            "id": "cliVersionControl",
+            "url": "https://www.google.com/search?q=cliVersionControl",
+            "label": "CLI Version Control"
+        }
+    },
+    {
+        "data": {
+            "id": "gitReflog",
+            "url": "https://www.google.com/search?q=gitReflog",
+            "label": "git Reflog"
+        }
+    },
+    {
+        "data": {
+            "id": "git",
+            "url": "https://www.google.com/search?q=git",
+            "label": "git"
+        }
+    },
+    {
+        "data": {
+            "id": "gitCliBackup",
+            "url": "https://www.google.com/search?q=gitCliBackup",
+            "label": "git CLI Backup"
+        }
+    },
+    {
+        "data": {
+            "id": "gitCliBranchConflict",
+            "url": "https://www.google.com/search?q=gitCLIBranch",
+            "label": "git CLI Branch/Conflict"
+        }
+    },
+    {
+        "data": {
+            "id": "github",
+            "url": "https://www.google.com/search?q=github",
+            "label": "Github"
+        }
+    },
+    {
+        "data": {
+            "id": "gitPatch",
+            "url": "https://www.google.com/search?q=gitPatch",
+            "label": "git Patch"
+        }
+    },
+    {
+        "data": {
+            "id": "gitVersionControl",
+            "url": "https://www.google.com/search?q=gitVersionControl",
+            "label": "git Version Control"
+        }
+    },
+    {
+        "data": {
+            "id": "cssPosition",
+            "url": "https://www.google.com/search?q=cssPosition",
+            "label": "CSS Position"
+        }
+    },
+    {
+        "data": {
+            "id": "scss",
+            "url": "https://www.google.com/search?q=scss",
+            "label": "SCSS"
+        }
+    },
+    {
+        "data": {
+            "id": "firestore",
+            "url": "https://www.google.com/search?q=firestore",
+            "label": "FireStore"
+        }
+    },
+    {
+        "data": {
+            "id": "netlify",
+            "url": "https://www.google.com/search?q=netlify",
+            "label": "Netlify"
+        }
+    },
+    {
+        "data": {
+            "id": "useState",
+            "url": "https://www.google.com/search?q=useState",
+            "label": "useState"
+        }
+    },
+    {
+        "data": {
+            "id": "useEffect",
+            "url": "https://www.google.com/search?q=useEffect",
+            "label": "useEffect"
+        }
+    },
+    {
+        "data": {
+            "id": "customHook",
+            "url": "https://www.google.com/search?q=customHook",
+            "label": "Custom Hook"
+        }
+    },
+    {
+        "data": {
+            "id": "cytoscape.js",
+            "url": "https://www.google.com/search?q=cytoscape.js",
+            "label": "cytoscape.js"
+        }
+    },
+    {
+        "data": {
+            "id": "reactCytoscape",
+            "url": "https://www.google.com/search?q=reactCytoscape",
+            "label": "React Cytoscape"
+        }
+    },
+    {
+        "data": {
+            "id": "firebase",
+            "url": "https://www.google.com/search?q=firebase",
+            "label": "Firebase"
+        }
+    },
+    {
+        "data": {
+            "id": "string",
+            "url": "https://www.google.com/search?q=string",
+            "label": "STRING: functional protein association networks"
+        }
+    },
+    {
+        "data": {
+            "id": "firebaseStorage",
+            "url": "https://www.google.com/search?q=firebaseStorage",
+            "label": "Firebase Storage"
+        }
+    },
+    {
+        "data": {
+            "id": "npm->posixCli",
+            "source": "posixCli",
+            "target": "npm"
+        }
+    },
+    {
+        "data": {
+            "id": "npm->cliVersionControl",
+            "source": "cliVersionControl",
+            "target": "npm"
+        }
+    },
+    {
+        "data": {
+            "id": "cliVersionControl->gitReflog",
+            "source": "gitReflog",
+            "target": "cliVersionControl"
+        }
+    },
+    {
+        "data": {
+            "id": "git->cliVersionControl",
+            "source": "cliVersionControl",
+            "target": "git"
+        }
+    },
+    {
+        "data": {
+            "id": "cliVersionControl->gitCliBackup",
+            "source": "gitCliBackup",
+            "target": "cliVersionControl"
+        }
+    },
+    {
+        "data": {
+            "id": "cliVersionControl->gitCliBranchConflict",
+            "source": "gitCliBranchConflict",
+            "target": "cliVersionControl"
+        }
+    },
+    {
+        "data": {
+            "id": "cliVersionControl->github",
+            "source": "github",
+            "target": "cliVersionControl"
+        }
+    },
+    {
+        "data": {
+            "id": "cliVersionControl->gitPatch",
+            "source": "gitPatch",
+            "target": "cliVersionControl"
+        }
+    },
+    {
+        "data": {
+            "id": "cliVersionControl->gitVersionControl",
+            "source": "gitVersionControl",
+            "target": "cliVersionControl"
+        }
+    },
+    {
+        "data": {
+            "id": "css->cssPosition",
+            "source": "cssPosition",
+            "target": "css"
+        }
+    },
+    {
+        "data": {
+            "id": "css->scss",
+            "source": "scss",
+            "target": "css"
+        }
+    },
+    {
+        "data": {
+            "id": "firebase->firestore",
+            "source": "firestore",
+            "target": "firebase"
+        }
+    },
+    {
+        "data": {
+            "id": "firebase->firebaseStorage",
+            "source": "firebaseStorage",
+            "target": "firebase"
+        }
+    },
+    {
+        "data": {
+            "id": "hosting->netlify",
+            "source": "netlify",
+            "target": "hosting"
+        }
+    },
+    {
+        "data": {
+            "id": "reactHooks->useState",
+            "source": "useState",
+            "target": "reactHooks"
+        }
+    },
+    {
+        "data": {
+            "id": "reactHooks->useEffect",
+            "source": "useEffect",
+            "target": "reactHooks"
+        }
+    },
+    {
+        "data": {
+            "id": "reactHooks->customHook",
+            "source": "customHook",
+            "target": "reactHooks"
+        }
+    },
+    {
+        "data": {
+            "id": "javascript->cytoscape.js",
+            "source": "cytoscape.js",
+            "target": "javascript"
+        }
+    },
+    {
+        "data": {
+            "id": "cytoscape.js->reactCytoscape",
+            "source": "reactCytoscape",
+            "target": "cytoscape.js"
+        }
+    },
+    {
+        "data": {
+            "id": "database->firebase",
+            "source": "firebase",
+            "target": "database"
+        }
+    },
+    {
+        "data": {
+            "id": "database->string",
+            "source": "string",
+            "target": "database"
+        }
+    }
+]
