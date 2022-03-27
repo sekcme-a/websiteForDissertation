@@ -4,9 +4,8 @@ cytoscape.use(coseBilkent);
 
 import './style.css';
 // webpack으로 묶어줘야 하니 css파일을 진입점인 index.js 에 import 합니다
-import './favicon.ico';
 // favicon build
-import '../model/data.json';
+import '../model/data.json'; 
 // data build
 
 fetch('./model/data.json', { mode: 'no-cors' })
